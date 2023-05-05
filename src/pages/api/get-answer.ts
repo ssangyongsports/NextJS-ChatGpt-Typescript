@@ -2,8 +2,8 @@
 import { Configuration, OpenAIApi } from 'openai';
 
 const configuration = new Configuration({
-   basePath: "https://api.pawan.krd/v1",
-   apiKey: "pk-okExSWKrxhHCqHAnLMefSyPOelTPaooGAyukseiRwqPgKoOZ",
+   basePath: 'https://api.pawan.krd/v1',
+   apiKey: 'pk-okExSWKrxhHCqHAnLMefSyPOelTPaooGAyukseiRwqPgKoOZ'",
  
 });
 
